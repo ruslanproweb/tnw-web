@@ -1,0 +1,88 @@
+@media (max-width: 1000px) {
+    .box-img{
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-left: 20px;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+    }
+    .main-content{
+        flex-wrap: wrap;
+        flex-direction: column;
+        max-width: 720px;
+        justify-content: center;
+        margin: auto;
+        width: 100%;
+    }
+    .drp{
+        width: 390px;
+    }
+    .img{
+        max-width: 450px;
+        margin: auto;
+        justify-content: center;
+   
+    }
+    .nv{
+        width: 100%;
+    }
+    .w{
+        max-width: 400px;
+    }
+    ul{
+        font-size: 12px;
+    }
+    .nav{
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin: auto;
+        display: flex;
+        margin-right: 60px;
+        justify-content: center;
+        margin: auto;
+    }
+    .logo{
+        max-width: 75px;
+        max-height: 60px;
+        justify-content: center;
+        padding-left: 20px;
+    }
+    .ul-li{
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding-left: 16px;
+    }
+    .g{
+        flex-wrap: wrap;
+        max-width: 250px;
+
+    }
+    .ll{
+        flex-wrap: wrap;
+        max-width: 250px;
+    }
+    .container{
+        width: 100%;
+        justify-content: center;
+    }
+    .c{
+        width: 100%;
+    }
+    .ol{
+        margin: auto;
+        justify-content: center;
+
+    }
+}
+@media (max-width:380px) {
+    ul{
+        font-size: 8px;
+    }
+    .c{
+        width: 100%;
+    }
+    .nv{
+        width: 100%;
+    }
+}   
